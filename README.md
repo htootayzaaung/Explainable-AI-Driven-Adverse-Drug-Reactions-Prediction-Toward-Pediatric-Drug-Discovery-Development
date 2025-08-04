@@ -23,6 +23,6 @@
 
 ## Data & artefacts
 
-All raw tables, processed datasets (~7 GB total), the trained Keras model, and TensorBoard logs are available in this public Google Drive folder:
+All raw tables, processed datasets (~7 GB total), the trained Keras model, and TensorBoard logs are available in this public Google Drive folder: https://drive.google.com/drive/folders/1QlwU7aKmkV76GLZCNLw1hn67PVubw-R3
 
 
