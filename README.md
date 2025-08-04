@@ -17,7 +17,7 @@
 | **Data Integration & Preparation.ipynb** | Combines the activity labels, the 735-gene expression profiles, and 2,048-bit Morgan fingerprints to form a **2,783-feature multimodal matrix** covering 108,696 drug–cell-line pairs, applies feature scaling, and exports the dataset as a 6.9 GB `.pkl` and a 1.6 GB `.csv`. |
 | **Model Development & Training.ipynb** | Trains a dual-branch multimodal encoder with **8-head cross-modal attention**, trains on an NVIDIA A100, and saves `best_multimodal_model.keras`. |
 | **Explainable AI-Driven ADR Prediction Report.pdf** | Technical report summarising biological motivation, data pipeline, model architecture, performance metrics, and interpretability findings. |
-| **My Notes.pdf** | Design diary that maps every raw file to each notebook step and summarises key parameter choices. |
+| **My Notes.pdf** | Research journal: captures the running rationale behind each processing step, design trade-offs, hyper-parameter grids, exploratory questions, and etc. |
 
 ---
 
